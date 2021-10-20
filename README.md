@@ -1,5 +1,7 @@
 # CTC Go
 
+## [https://bit.ly/CTCAulafuturo](https://bit.ly/CTCAulafuturo)
+
 [Arduino CTC Go!](https://www.tibot.es/catalogo/253-arduino-ctc-go-core-module.html)
 
 * Arduino UNO Wifi Rrev2
